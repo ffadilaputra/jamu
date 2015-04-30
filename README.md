@@ -30,5 +30,7 @@ Kumpulan Bookmark
 
 #Tutorial Rest API
 <a href="http://code.tutsplus.com/tutorials/working-with-restful-services-in-codeigniter--net-8814">RESTful Web Services with Code Igniter</a>
+<br>
+<a href="https://github.com/swagger-api/swagger-ui">Swagger UI API Documentation</a>
 
 
