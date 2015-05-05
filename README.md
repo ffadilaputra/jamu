@@ -2,10 +2,7 @@
 Kumpulan Bookmark 
 
 # CSS
-<p><a href="http://getbootstrap.com/">Bootstrap</a></p>
-<p><a href="http://foundation.zurb.com/">Zurb Foundation</a></p>
-<p><a href="http://semantic-ui.com/">Semantic UI</a></p>
-<p><a href="http://materializecss.com/">Materialize</a></p>
+<p><a href="http://usablica.github.io/front-end-frameworks/compare.html">Framework List</a></p>
 
 #JavaScript
 <p><a href="https://angularjs.org/">AngularJS</a></p>
