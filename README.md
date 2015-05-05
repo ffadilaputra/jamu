@@ -1,5 +1,5 @@
 # Jamu
-Kumpulan Bookmark 
+Kumpulan Bookmark
 
 # CSS
 <p><a href="http://usablica.github.io/front-end-frameworks/compare.html">Framework List</a></p>
@@ -29,3 +29,10 @@ Kumpulan Bookmark
 <p><a href="https://github.com/swagger-api/swagger-ui">Swagger UI API Documentation</a>
 </p>
 
+#Live Code
+<p><a href="http://codepen.io">Codepen</a></p>
+<p><a href="http://jsbin.com">JSBin</a></p>
+<p><a href="http://jsfiddle.com">JSFiddle</a></p>
+
+#Link resources
+<p><a href="http://agiledesigners.com/">Usefull Web designer resources</a></p>
