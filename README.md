@@ -36,3 +36,4 @@ Kumpulan Bookmark
 
 #Link resources
 <p><a href="http://agiledesigners.com/">Usefull Web designer resources</a></p>
+<p><a href="http://designmodo.com/resources/"></a>Desigmodo</p>
