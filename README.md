@@ -39,7 +39,7 @@ Kumpulan Bookmark
 <p><a href="http://agiledesigners.com/">Usefull Web designer resources</a></p>
 <p><a href="http://designmodo.com/resources/">Designmodo</a></p>
 
-#Open Source IDE
+#IDE
 <p><a href="atom.io">Atom</a></p>
 <p><a href="netbeans.org">Netbeans</a></p>
 <p><a href="eclipse.org">Eclipse</a></p>
