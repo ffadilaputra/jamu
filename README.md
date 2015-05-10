@@ -36,4 +36,7 @@ Kumpulan Bookmark
 
 #Link resources
 <p><a href="http://agiledesigners.com/">Usefull Web designer resources</a></p>
-<p><a href="http://designmodo.com/resources/">Desigmodo</a></p>
+<p><a href="http://designmodo.com/resources/">Designmodo</a></p>
+
+#Neubee Team Chat
+<p><a href="https://www.hipchat.com/invite/351627/fee027ec3890ea109dcc108eba40bd0c">Hip Chat</a></p>
