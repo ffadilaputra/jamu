@@ -33,10 +33,16 @@ Kumpulan Bookmark
 <p><a href="http://codepen.io">Codepen</a></p>
 <p><a href="http://jsbin.com">JSBin</a></p>
 <p><a href="http://jsfiddle.com">JSFiddle</a></p>
+<p><a href="https://ideone.com/">Ideone</a></p>
 
 #Link resources
 <p><a href="http://agiledesigners.com/">Usefull Web designer resources</a></p>
 <p><a href="http://designmodo.com/resources/">Designmodo</a></p>
+
+#Open Source IDE
+<p><a href="atom.io">Atom</a></p>
+<p><a href="netbeans.org">Netbeans</a></p>
+<p><a href="eclipse.org">Eclipse</a></p>
 
 #Neubee Team Chat
 <p><a href="https://www.hipchat.com/invite/351627/fee027ec3890ea109dcc108eba40bd0c">Hip Chat</a></p>
