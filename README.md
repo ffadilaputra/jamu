@@ -1,48 +1,53 @@
-# Jamu
+# Jamu :beer:
 Kumpulan Bookmark
 
-# CSS
-<p><a href="http://usablica.github.io/front-end-frameworks/compare.html">Framework List</a></p>
+##CSS
+[Framework List](http://usablica.github.io/front-end-frameworks/compare.html)
 
-#JavaScript
-<p><a href="https://angularjs.org/">AngularJS</a></p>
-<p><a href="http://emberjs.com/">EmberJS</a></p>
-<p><a href="https://jquery.com/">JQuery</a></p>
-<p><a href="https://jqueryui.com/">JQueryUI</a></p>
+##JavaScript
+[Angular JS](https://angularjs.org/)
+[Ember JS](http://emberjs.com/)
+[Jquery](https://jquery.com/)
+[Jquery UI](https://jqueryui.com/)
 
-#SVG
-<p><a href="http://snapsvg.io/">SnapSVG</a></p>
+##SVG
+[Snap SVG](http://snapsvg.io/)
 
-#Tutorial SVG
-<p><a href="http://sarasoueidan.com/">Sara Soueidan</a></p>
+##Tutorial SVG
+[Sara Souedian](http://sarasoueidan.com/)
 
-#Pedoman Pembuatan UI/UX
-<p><a href="https://www.goodui.org/">GoodUI</a></p>
+##Pedoman Pembuatan UI/UX
+[Good ui](https://www.goodui.org/)
 
-#Pedoman Penulisan HTML CSS JS
-<p><a href="https://github.com/necolas/idiomatic-css/tree/master/translations/id-ID">Idiomatic CSS</a></p>
-<p><a href="http://taitems.github.io/Front-End-Development-Guidelines/">Front End Development Guidelines</a></p>
-<p><a href="https://github.com/tmwagency/TMW-frontend-guidelines/blob/master/Front-End%20development%20guidelines.mdown">TMW Frontend Guidlines</a></p>
+##Pedoman Penulisan HTML CSS JS
+[Idiomatic css](https://github.com/necolas/idiomatic-css/tree/master/translations/id-ID)
+[Front End Development Guidelines](http://taitems.github.io/Front-End-Development-Guidelines/)
+[TMW Frontend Guidlines](https://github.com/tmwagency/TMW-frontend-guidelines/blob/master/Front-End%20development%20guidelines.mdown)
 
-#Tutorial Rest API
-<p><a href="http://code.tutsplus.com/tutorials/working-with-restful-services-in-codeigniter--net-8814">RESTful Web Services with Code Igniter</a></p>
-<p><a href="https://github.com/swagger-api/swagger-ui">Swagger UI API Documentation</a>
-</p>
+##Tutorial Rest API
+[RESTful Web Services with Code Igniter](http://code.tutsplus.com/tutorials/working-with-restful-services-in-codeigniter--net-8814)
+[Swagger UI API Documentation](https://github.com/swagger-api/swagger-ui)
 
-#Live Code
-<p><a href="http://codepen.io">Codepen</a></p>
-<p><a href="http://jsbin.com">JSBin</a></p>
-<p><a href="http://jsfiddle.com">JSFiddle</a></p>
-<p><a href="https://ideone.com/">Ideone</a></p>
+##Live Code
+[Codepen](http://codepen.io)
+[JSBin](http://jsbin.com)
+[JSFiddle](http://jsfiddle.com)
+[Ideone](https://ideone.com/)
 
-#Link resources
-<p><a href="http://agiledesigners.com/">Usefull Web designer resources</a></p>
-<p><a href="http://designmodo.com/resources/">Designmodo</a></p>
+##Link resources
+[Usefull Web designer resources](http://agiledesigners.com/)
+[Designmod](http://designmodo.com/resources/)
 
-#IDE
-<p><a href="atom.io">Atom</a></p>
-<p><a href="netbeans.org">Netbeans</a></p>
-<p><a href="eclipse.org">Eclipse</a></p>
+##IDE
+[Atom](atom.io)
+[Netbeans](netbeans.org)
+[Eclipse](eclipse.org)
+[Jetbrains](https://www.jetbrains.com)
 
-#Neubee Team Chat
-<p><a href="https://www.hipchat.com/invite/351627/fee027ec3890ea109dcc108eba40bd0c">Hip Chat</a></p>
+##About Markdown
+[Darling Fireball](http://daringfireball.net/projects/markdown/syntax)
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+##Neubee Team Chat :wink:
+[Hipchat](https://www.hipchat.com/invite/351627/fee027ec3890ea109dcc108eba40bd0c)
+
