@@ -28,3 +28,9 @@ Kumpulan Bookmark
 - [greenDAO](http://greendao-orm.com/)
 - [ActiveAndroid](http://www.activeandroid.com/)
 - [OrmDroid](http://roscopeco.github.io/ormdroid/)
+
+#Dependency Injection
+- [Roboguice](https://github.com/roboguice/roboguice)
+- [Dagger](http://square.github.io/dagger/)
+- [ButterKnife](http://jakewharton.github.io/butterknife/)
+- [PocketKnife](https://github.com/hansenji/pocketknife)
