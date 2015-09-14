@@ -6,8 +6,7 @@ Kumpulan Bookmark
 
 #REST
 - [Android with JSON Parsing](http://www.learn2crack.com/2013/10/android-asynctask-json-parsing-example.html)
-- [Android Json Web signature](https://github.com/jwtk/jjwt)
-- [Spongy Castle](https://rtyley.github.io/spongycastle/)
+
 
 #Android Design
 - [Materialup](https://www.materialup.com/)
@@ -35,3 +34,8 @@ Kumpulan Bookmark
 - [Dagger](http://square.github.io/dagger/)
 - [ButterKnife](http://jakewharton.github.io/butterknife/)
 - [PocketKnife](https://github.com/hansenji/pocketknife)
+
+#Android HTTP Client
+- [Google Cloud Messaging] (https://developers.google.com/cloud-messaging/android/client)
+- [Android Json Web signature](https://github.com/jwtk/jjwt)
+- [Spongy Castle](https://rtyley.github.io/spongycastle/)
