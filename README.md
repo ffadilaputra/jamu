@@ -32,6 +32,7 @@ Kumpulan Bookmark
 - [greenDAO](http://greendao-orm.com/)
 - [ActiveAndroid](http://www.activeandroid.com/)
 - [OrmDroid](http://roscopeco.github.io/ormdroid/)
+- [Android Job Queue] (https://github.com/path/android-priority-jobqueue)
 
 #Dependency Injection
 - [Roboguice](https://github.com/roboguice/roboguice)
