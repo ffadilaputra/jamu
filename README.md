@@ -15,6 +15,7 @@ Kumpulan Bookmark
 - [Ember JS](http://emberjs.com/)
 - [Jquery](https://jquery.com/)
 - [Jquery UI](https://jqueryui.com/)
+- [Video JS](http://www.videojs.com/)
 
 ##SVG
 - [Snap SVG](http://snapsvg.io/)
