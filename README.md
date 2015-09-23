@@ -34,6 +34,10 @@ Kumpulan Bookmark
 - [OrmDroid](http://roscopeco.github.io/ormdroid/)
 - [Android Job Queue] (https://github.com/path/android-priority-jobqueue)
 
+#Android Game
+- [Kilobolt](http://www.kilobolt.com/)
+- [Aymeric Lamboley](http://www.aymericlamboley.fr/)
+
 #Dependency Injection
 - [Roboguice](https://github.com/roboguice/roboguice)
 - [Dagger](http://square.github.io/dagger/)
