@@ -48,3 +48,6 @@ Kumpulan Bookmark
 - [Google Cloud Messaging] (https://developers.google.com/cloud-messaging/android/client)
 - [Android Json Web signature](https://github.com/jwtk/jjwt)
 - [Spongy Castle](https://rtyley.github.io/spongycastle/)
+
+#Generator
+-[ButterKnifeZelezny](https://github.com/avast/android-butterknife-zelezny)
