@@ -50,4 +50,4 @@ Kumpulan Bookmark
 - [Spongy Castle](https://rtyley.github.io/spongycastle/)
 
 #Generator
--[ButterKnifeZelezny](https://github.com/avast/android-butterknife-zelezny)
+- [ButterKnifeZelezny](https://github.com/avast/android-butterknife-zelezny)
