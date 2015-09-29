@@ -17,6 +17,7 @@ Kumpulan Bookmark
 - [Jquery UI](https://jqueryui.com/)
 - [Video JS](http://www.videojs.com/)
 - [Angular Material] (https://material.angularjs.org/latest/#/)
+- [Mozilla PDF JS] (https://github.com/mozilla/pdf.js/)
 
 ##SVG
 - [Snap SVG](http://snapsvg.io/)
