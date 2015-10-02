@@ -24,6 +24,7 @@ Kumpulan Bookmark
 - [Xamarin] (https://developer.xamarin.com/guides/android/application_fundamentals/resources_in_android/)
 - [Android Authority] 
 - [Android Pdf Box] (https://github.com/Birdbrain2/PdfBox-Android)
+- [Android NDK](https://developer.android.com/ndk/downloads/index.html)
 
 #ORM Android
 - [Realm](https://realm.io/docs/java/latest/)
