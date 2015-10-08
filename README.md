@@ -49,6 +49,7 @@ Kumpulan Bookmark
 - [Google Cloud Messaging] (https://developers.google.com/cloud-messaging/android/client)
 - [Android Json Web signature](https://github.com/jwtk/jjwt)
 - [Spongy Castle](https://rtyley.github.io/spongycastle/)
+- [Android Priority Job Queue (Job Manager)] (https://github.com/path/android-priority-jobqueue)
 
 #Generator
 - [ButterKnifeZelezny](https://github.com/avast/android-butterknife-zelezny)
