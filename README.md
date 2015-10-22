@@ -33,6 +33,7 @@ Kumpulan Bookmark
 - [greenDAO](http://greendao-orm.com/)
 - [ActiveAndroid](http://www.activeandroid.com/)
 - [OrmDroid](http://roscopeco.github.io/ormdroid/)
+- [Android Event Bus](https://github.com/greenrobot/EventBus)
 - [Android Job Queue] (https://github.com/path/android-priority-jobqueue)
 
 #Android Game
