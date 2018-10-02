@@ -2,7 +2,7 @@
 Kumpulan Bookmark
 
 ## Awesome
-= [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome](https://github.com/sindresorhus/awesome)
 
 ## Docs
 - [Devdocs](http://devdocs.io/)
